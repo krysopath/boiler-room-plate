@@ -60,7 +60,7 @@ api.add_resource(People, '/people/<int:human_id>')
 
 
 PEOPLE = {
-    0: {"name": "Dennis Nuesser",
+    0: {"name": "Dennis",
         "occupation": "currently all sorts",
         "age": pi,
         "reason": "since he is awesome"},
